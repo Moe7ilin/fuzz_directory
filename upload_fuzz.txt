@@ -50,3 +50,8 @@ cEr
 sWf
 swf
 ini
+ 
+. .
+.htaccess
+.user.ini
+::$DATA
